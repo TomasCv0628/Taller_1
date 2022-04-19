@@ -1,11 +1,11 @@
 """Programa para encontrar el inverso a
 un número de cuatro digitos"""
 
-print("•～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～")
+print("\n•～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～")
 print("•～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～")
 print("•～ •～ •～ •～ • NÚMERO INVERSO •～ •～ •～  •～")
 print("•～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～")
-print("•～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～")
+print("•～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～ •～\n")
 
 # input
 X = input("\ningrese el numero de cuatro digitos: ")
