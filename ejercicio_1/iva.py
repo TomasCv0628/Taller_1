@@ -1,9 +1,9 @@
 """PROGRAMA PARA CALCULAR EL IVA Y 
  PRECIO DE VENTA DE UN PRODUCTO"""
 
-print("-----------------------------------")
+print("\n-----------------------------------")
 print("---- IVA Y PRECIO DE VENTA --------")
-print("-----------------------------------")
+print("-----------------------------------\n")
 
 # input
 x = input("Valor de del producto: ")
